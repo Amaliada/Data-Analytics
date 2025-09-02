@@ -96,7 +96,7 @@ Git/GitHub
 ![Monthly Sales](reports/monthly_sales.png)
 ![Top Categories](reports/top_categories.png)
 ![Review Distribution](reports/review_distribution.png)
-![Review vs Delivery](reports/review_boxplot.png)
+
 
  Acknowledgements
 
