@@ -88,12 +88,12 @@ Jupyter Notebook
 Git/GitHub
 
 📂 Project Structure
-├── data/                # CSV files (not uploaded due to size)
-├── notebooks/           # Jupyter notebooks with analysis
-├── reports/             # Saved plots for README
-├── README.md            # Project documentation
+── data/                # CSV files (not uploaded due to size)
+── notebooks/           # Jupyter notebooks with analysis
+── reports/             # Saved plots for README
+── README.md            # Project documentation
 
-🙌 Acknowledgements
+ Acknowledgements
 
 Dataset from Kaggle – Brazilian E-Commerce by Olist
 .
