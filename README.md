@@ -93,6 +93,11 @@ Git/GitHub
 ── reports/             # Saved plots for README
 ── README.md            # Project documentation
 
+![Monthly Sales](reports/monthly_sales.png)
+![Top Categories](reports/top_categories.png)
+![Review Distribution](reports/review_distribution.png)
+![Review vs Delivery](reports/review_boxplot.png)
+
  Acknowledgements
 
 Dataset from Kaggle – Brazilian E-Commerce by Olist
